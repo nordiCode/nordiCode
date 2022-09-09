@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nordiCode a python developer
 - 👀 I’m interested in Haskell and functional programming
 - 🌱 I’m currently learning Haskell
-- 💞️ I’m looking to collaborate on unsure
+- 💞️ I’m looking to collaborate 
 
 
 <!---
