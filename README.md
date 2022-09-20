@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nordiCode a python developer
-- 👀 I’m interested in Haskell and functional programming
-- 🌱 I’m currently learning Haskell
+- 👋 Hi, I’m @nordiCode a python developer and data analyst.
+- 👀 I’m interested in many areas of software development and continuously learning
+- 🌱 I’m currently learning Haskell and functional programming to broaden my horizons.
 - 💞️ I’m looking to collaborate 
 
 
