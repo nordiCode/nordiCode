@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Haskell and functional programming to broaden my horizons.
 - 💞️ I’m looking to collaborate 
 
+![image](https://www.codewars.com/users/nordiCode/badges/small)
 
 <!---
 nordiCode/nordiCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
